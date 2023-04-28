@@ -29,3 +29,4 @@ Below you can find incomplete list of changes in Docker packaging for Jenkins re
 ### 2.99
 
 *  `/bin/tini` has been relocated to `/sbin/tini`, location defined by alpine
+     
